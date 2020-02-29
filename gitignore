@@ -1,0 +1,10 @@
+bin/**
+jacoco.exec
+logs/**
+.classpath
+.project
+.settings/**
+target/**
+**/.~lock*
+*.iml
+

@@ -1,0 +1,19 @@
+<abc>
+    <child>
+        Hello World!
+    </child>
+    <child>Some Another String</child>
+    <child>
+        <child>
+            <grandchild>
+                <text>Some text!</text>
+                <text>Text Some!</text>
+                <text>
+                    <birthday format="dd.mm" maxDays="31" maxMonth="12">
+                        01.07
+                    </birthday>
+                </text>
+            </grandchild>
+        </child>
+    </child>
+</abc>

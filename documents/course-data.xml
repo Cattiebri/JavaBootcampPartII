@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Course dateFormat="dd/MM/yyyy hh:mm:ss">
+  <title>Java bootcamp</title>
+  <teacher>Ada Lavleisa</teacher>
+  <Students>
+    <Student>
+      <firstname>Vasya</firstname>
+      <lastname>Pupkin</lastname>
+      <age unit="years">25</age>
+      <practiseCompany>Google</practiseCompany>
+      <Lections>
+        <Lection>
+          <date>01/01/2020 12:00:00</date>
+          <present>true</present>
+          <mark/>
+        </Lection>
+        <Lection>
+          <date>02/01/2020 12:00:00</date>
+          <present>true</present>
+          <mark>8</mark>
+        </Lection>
+        <Lection>
+          <date>03/01/2020 12:00:00</date>
+          <present>true</present>
+          <mark>2</mark>
+        </Lection>
+        <Lection>
+          <date>04/01/2020 12:00:00</date>
+          <present>false</present>
+          <mark/>
+        </Lection>
+        <Lection>
+          <date>05/01/2020 12:00:00</date>
+          <present>false</present>
+          <mark/>
+        </Lection>
+        <Lection>
+          <date>06/01/2020 12:00:00</date>
+          <present>false</present>
+          <mark/>
+        </Lection>
+        <Lection>
+          <date>07/01/2020 12:00:00</date>
+          <present>true</present>
+          <mark>4</mark>
+        </Lection>
+        <Lection>
+          <date>08/01/2020 12:00:00</date>
+          <present>true</present>
+          <mark>9</mark>
+        </Lection>
+      </Lections>
+    </Student>
+    <Student>
+      <firstname>Pupka</firstname>
+      <lastname>Vasykin</lastname>
+      <age unit="years">32</age>
+      <practiseCompany>Facebook</practiseCompany>
+      <Lections>
+        <Lection>
+          <date>01/01/2020 12:00:00</date>
+          <present>true</present>
+          <mark>5</mark>
+        </Lection>
+        <Lection>
+          <date>02/01/2020 12:00:00</date>
+          <present>true</present>
+          <mark>7</mark>
+        </Lection>
+        <Lection>
+          <date>03/01/2020 12:00:00</date>
+          <present>true</present>
+          <mark/>
+        </Lection>
+        <Lection>
+          <date>04/01/2020 12:00:00</date>
+          <present>true</present>
+          <mark/>
+        </Lection>
+        <Lection>
+          <date>05/01/2020 12:00:00</date>
+          <present>true</present>
+          <mark>6</mark>
+        </Lection>
+        <Lection>
+          <date>06/01/2020 12:00:00</date>
+          <present>true</present>
+          <mark/>
+        </Lection>
+        <Lection>
+          <date>07/01/2020 12:00:00</date>
+          <present>false</present>
+          <mark/>
+        </Lection>
+        <Lection>
+          <date>08/01/2020 12:00:00</date>
+          <present>true</present>
+          <mark>6</mark>
+        </Lection>
+      </Lections>
+    </Student>
+    <Student>
+      <firstname>Janis</firstname>
+      <lastname>Berzinsh</lastname>
+      <age unit="years">51</age>
+      <practiseCompany>Apple</practiseCompany>
+      <Lections>
+        <Lection>
+          <date>01/01/2020 12:00:00</date>
+          <present>true</present>
+          <mark>10</mark>
+        </Lection>
+        <Lection>
+          <date>02/01/2020 12:00:00</date>
+          <present>true</present>
+          <mark/>
+        </Lection>
+        <Lection>
+          <date>03/01/2020 12:00:00</date>
+          <present>false</present>
+          <mark/>
+        </Lection>
+        <Lection>
+          <date>04/01/2020 12:00:00</date>
+          <present>true</present>
+          <mark>10</mark>
+        </Lection>
+        <Lection>
+          <date>05/01/2020 12:00:00</date>
+          <present>false</present>
+          <mark/>
+        </Lection>
+        <Lection>
+          <date>06/01/2020 12:00:00</date>
+          <present>true</present>
+          <mark/>
+        </Lection>
+        <Lection>
+          <date>07/01/2020 12:00:00</date>
+          <present>false</present>
+          <mark/>
+        </Lection>
+        <Lection>
+          <date>08/01/2020 12:00:00</date>
+          <present>true</present>
+          <mark>8</mark>
+        </Lection>
+      </Lections>
+    </Student>
+    <Student>
+      <firstname>Vidya</firstname>
+      <lastname>Krishna Pallikonda</lastname>
+      <age unit="years">39</age>
+      <practiseCompany>Accenture</practiseCompany>
+      <Lections>
+        <Lection>
+          <date>01/01/2020 12:00:00</date>
+          <present>true</present>
+          <mark/>
+        </Lection>
+        <Lection>
+          <date>02/01/2020 12:00:00</date>
+          <present>false</present>
+          <mark/>
+        </Lection>
+        <Lection>
+          <date>03/01/2020 12:00:00</date>
+          <present>false</present>
+          <mark/>
+        </Lection>
+        <Lection>
+          <date>04/01/2020 12:00:00</date>
+          <present>true</present>
+          <mark>7</mark>
+        </Lection>
+        <Lection>
+          <date>05/01/2020 12:00:00</date>
+          <present>false</present>
+          <mark/>
+        </Lection>
+        <Lection>
+          <date>06/01/2020 12:00:00</date>
+          <present>false</present>
+          <mark/>
+        </Lection>
+        <Lection>
+          <date>07/01/2020 12:00:00</date>
+          <present>false</present>
+          <mark/>
+        </Lection>
+        <Lection>
+          <date>08/01/2020 12:00:00</date>
+          <present>true</present>
+          <mark>6</mark>
+        </Lection>
+      </Lections>
+    </Student>
+  </Students>
+</Course>

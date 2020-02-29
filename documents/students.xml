@@ -1,0 +1,13 @@
+<Course dateFormat="...">
+    <Name>...</Name>
+    <Students>
+        <Student>
+            <FirstName>..</FirstName>
+            <Lections>
+                <Lection>
+                    <Mark>...</Mark>
+                </Lection>
+            </Lections>
+        </Student>
+    </Students>
+</Course>

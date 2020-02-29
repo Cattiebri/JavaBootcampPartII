@@ -1,0 +1,180 @@
+{
+  "courseName": "Java bootcamp",
+  "teacher": "Ada Lavleisa",
+  "dateFormat": "dd/MM/yyyy hh:mm:ss",
+  "students": [
+    {
+      "firstName": "Vasya",
+      "lastName": "Pupkin",
+      "age": 25,
+      "practiseCompany": "Google",
+      "dailyReports": [
+        {
+          "date": 1577829600000,
+          "presence": true
+        },
+        {
+          "date": 1577916000000,
+          "presence": true,
+          "mark": 8
+        },
+        {
+          "date": 1578002400000,
+          "presence": true,
+          "mark": 2
+        },
+        {
+          "date": 1578088800000,
+          "presence": false
+        },
+        {
+          "date": 1578175200000,
+          "presence": false
+        },
+        {
+          "date": 1578261600000,
+          "presence": false
+        },
+        {
+          "date": 1578348000000,
+          "presence": true,
+          "mark": 4
+        },
+        {
+          "date": 1578434400000,
+          "presence": true,
+          "mark": 9
+        }
+      ]
+    },
+    {
+      "firstName": "Pupka",
+      "lastName": "Vasykin",
+      "age": 32,
+      "practiseCompany": "Facebook",
+      "dailyReports": [
+        {
+          "date": 1577829600000,
+          "presence": true,
+          "mark": 5
+        },
+        {
+          "date": 1577916000000,
+          "presence": true,
+          "mark": 7
+        },
+        {
+          "date": 1578002400000,
+          "presence": true
+        },
+        {
+          "date": 1578088800000,
+          "presence": true
+        },
+        {
+          "date": 1578175200000,
+          "presence": true,
+          "mark": 6
+        },
+        {
+          "date": 1578261600000,
+          "presence": true
+        },
+        {
+          "date": 1578348000000,
+          "presence": false
+        },
+        {
+          "date": 1578434400000,
+          "presence": true,
+          "mark": 6
+        }
+      ]
+    },
+    {
+      "firstName": "Janis",
+      "lastName": "Berzinsh",
+      "age": 51,
+      "practiseCompany": "Apple",
+      "dailyReports": [
+        {
+          "date": 1577829600000,
+          "presence": true,
+          "mark": 10
+        },
+        {
+          "date": 1577916000000,
+          "presence": true
+        },
+        {
+          "date": 1578002400000,
+          "presence": false
+        },
+        {
+          "date": 1578088800000,
+          "presence": true,
+          "mark": 10
+        },
+        {
+          "date": 1578175200000,
+          "presence": false
+        },
+        {
+          "date": 1578261600000,
+          "presence": true
+        },
+        {
+          "date": 1578348000000,
+          "presence": false
+        },
+        {
+          "date": 1578434400000,
+          "presence": true,
+          "mark": 8
+        }
+      ]
+    },
+    {
+      "firstName": "Vidya",
+      "lastName": "Krishna Pallikonda",
+      "age": 39,
+      "practiseCompany": "Accenture",
+      "dailyReports": [
+        {
+          "date": 1577829600000,
+          "presence": true
+        },
+        {
+          "date": 1577916000000,
+          "presence": false
+        },
+        {
+          "date": 1578002400000,
+          "presence": false
+        },
+        {
+          "date": 1578088800000,
+          "presence": true,
+          "mark": 7
+        },
+        {
+          "date": 1578175200000,
+          "presence": false
+        },
+        {
+          "date": 1578261600000,
+          "presence": false
+        },
+        {
+          "date": 1578348000000,
+          "presence": false
+        },
+        {
+          "date": 1578434400000,
+          "presence": true,
+          "mark": 6
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+<person>
+    <name>Laimonis</name>
+    <surname>Saulnesis</surname>
+    <age unit="year">33</age>
+    <domesticAnimal>
+        <type>Hamster</type>
+        <name>Glutton</name>
+        <Toys>
+            <Toy>Ball</Toy>
+            <Toy>Running wheel</Toy>
+            <Toy>Tunnel</Toy>
+        </Toys>
+    </domesticAnimal>
+</person>

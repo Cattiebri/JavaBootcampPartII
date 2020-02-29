@@ -1,0 +1,24 @@
+Inner data structure :
+
+int - kursa nosaukuma garums
+string - kursa nosaukums
+int - pasniedzēja vārda garums
+string - pasniedzēja vārds
+int - datuma formata garums
+string - datuma formats
+int - studentu skaits kursā
+int - lekciju skaits kursā
+for i in 0...(studentu skaits kursā)
+    int - studenta vārda garums
+    string - studenta vārds
+    int - studenta uzvārda garums
+    string - studenta uzvārds
+    byte - studenta vecums
+    int - prakses vietas nosaukuma garums
+    string - prakses vietas nosaukums
+    for j in 0...(lekciju skaits kursā)
+        long - lekcijas datums/laiks
+        boolean - studenta apmeklējums šajā lekcijā
+        byte - atzīme (-1 nozīmē nav atzīmes, gala rezultātā jāliek null)
+
+Visi string tipa laukumi ir iekodēti StandardCharsets.US_ASCII kodējumā!
