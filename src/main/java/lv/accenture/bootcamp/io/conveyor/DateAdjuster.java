@@ -70,7 +70,7 @@ public class DateAdjuster {
                 int updatedWithPrepared = ptmt.executeUpdate();
             }
 
-
+            result.close();;
         } catch (Exception e) {
             e.printStackTrace();
         } finally {

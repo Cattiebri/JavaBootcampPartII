@@ -1,0 +1,24 @@
+<myDay>
+    <day> day1</day>
+    <morning>
+        <eightInTheMorning>
+            <myTasks>
+                <task>Wake up</task>
+                <task>Dress up</task>
+            </myTasks>
+        </eightInTheMorning>
+        <nineInTheMorning>
+            <myTasks>
+                <task>Take shower</task>
+                <task>Eat breakfast</task>
+                <task>Brush teeth</task>
+            </myTasks>
+        </nineInTheMorning>
+        <tenInTheMorning>
+            <myTasks>
+                <task>Leave for work</task>
+                <task>Start working</task>
+            </myTasks>
+        </tenInTheMorning>
+    </morning>
+</myDay>

@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c5f9b9f-81e0-43bb-986b-1e34c3038f5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv/accenture/bootcamp/io/conveyor/DateAdjuster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv/accenture/bootcamp/network/DateConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv/accenture/bootcamp/network/SunAPIResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv/accenture/bootcamp/network/SunData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documents/myXml.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bootcamp.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/bootcamp.ipr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bootcamp.iws" beforeDir="false" afterPath="$PROJECT_DIR$/bootcamp.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv/accenture/bootcamp/AppLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv/accenture/bootcamp/AppLauncher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv/accenture/bootcamp/network/SunAPIService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv/accenture/bootcamp/network/SunAPIService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/bootcamp.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lv/accenture/bootcamp/AppLauncher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lv/accenture/bootcamp/AppLauncher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lv/accenture/bootcamp/network/SunAPIService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lv/accenture/bootcamp/network/SunAPIService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv/accenture/bootcamp/io/conveyor/DateAdjuster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv/accenture/bootcamp/io/conveyor/DateAdjuster.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -379,6 +372,14 @@
       <option name="presentableId" value="Default" />
       <updated>1582908188427</updated>
     </task>
+    <task id="LOCAL-00001" summary="Date Adjuster - done">
+      <created>1582981407319</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582981407319</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -392,6 +393,10 @@
       <flatten-packages value="false" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Date Adjuster - done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Date Adjuster - done" />
   </component>
   <component name="VssConfiguration">
     <CheckoutOptions>
@@ -450,6 +455,10 @@
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="608" y="157" width="376" height="562" key="#com.intellij.ide.util.MemberChooser/0.0.1600.876@0.0.1600.876" timestamp="1582966009144" />
+    <state x="406" y="36" width="779" height="807" key="CommitChangelistDialog2" timestamp="1582981407179">
+      <screen x="0" y="0" width="1600" height="876" />
+    </state>
+    <state x="406" y="36" width="779" height="807" key="CommitChangelistDialog2/0.0.1600.876@0.0.1600.876" timestamp="1582981407179" />
     <state x="383" y="157" width="826" height="564" key="DBNavigator.DatasetFilterDialog" timestamp="1582973706687">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
@@ -462,30 +471,34 @@
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="583" y="197" width="426" height="484" key="FileChooserDialogImpl/0.0.1600.876@0.0.1600.876" timestamp="1582973963398" />
-    <state width="1554" height="221" key="GridCell.Tab.0.bottom" timestamp="1582981004362">
+    <state width="1554" height="221" key="GridCell.Tab.0.bottom" timestamp="1582981457930">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1554" height="221" key="GridCell.Tab.0.bottom/0.0.1600.876@0.0.1600.876" timestamp="1582981004362" />
-    <state width="1554" height="221" key="GridCell.Tab.0.center" timestamp="1582981004362">
+    <state width="1554" height="221" key="GridCell.Tab.0.bottom/0.0.1600.876@0.0.1600.876" timestamp="1582981457930" />
+    <state width="1554" height="221" key="GridCell.Tab.0.center" timestamp="1582981457929">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1554" height="221" key="GridCell.Tab.0.center/0.0.1600.876@0.0.1600.876" timestamp="1582981004362" />
-    <state width="1554" height="221" key="GridCell.Tab.0.left" timestamp="1582981004362">
+    <state width="1554" height="221" key="GridCell.Tab.0.center/0.0.1600.876@0.0.1600.876" timestamp="1582981457929" />
+    <state width="1554" height="221" key="GridCell.Tab.0.left" timestamp="1582981457929">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1554" height="221" key="GridCell.Tab.0.left/0.0.1600.876@0.0.1600.876" timestamp="1582981004362" />
-    <state width="1554" height="221" key="GridCell.Tab.0.right" timestamp="1582981004362">
+    <state width="1554" height="221" key="GridCell.Tab.0.left/0.0.1600.876@0.0.1600.876" timestamp="1582981457929" />
+    <state width="1554" height="221" key="GridCell.Tab.0.right" timestamp="1582981457930">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1554" height="221" key="GridCell.Tab.0.right/0.0.1600.876@0.0.1600.876" timestamp="1582981004362" />
+    <state width="1554" height="221" key="GridCell.Tab.0.right/0.0.1600.876@0.0.1600.876" timestamp="1582981457930" />
     <state x="289" y="73" key="SettingsEditor" timestamp="1582970459709">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="289" y="73" key="SettingsEditor/0.0.1600.876@0.0.1600.876" timestamp="1582970459709" />
-    <state x="456" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1582970478392">
+    <state x="395" y="175" width="802" height="528" key="Vcs.Push.Dialog.v2" timestamp="1582981416850">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="456" y="267" key="com.intellij.ide.util.TipDialog/0.0.1600.876@0.0.1600.876" timestamp="1582970478392" />
+    <state x="395" y="175" width="802" height="528" key="Vcs.Push.Dialog.v2/0.0.1600.876@0.0.1600.876" timestamp="1582981416850" />
+    <state x="456" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1583166678056">
+      <screen x="0" y="0" width="1600" height="876" />
+    </state>
+    <state x="456" y="267" key="com.intellij.ide.util.TipDialog/0.0.1600.876@0.0.1600.876" timestamp="1583166678056" />
     <state x="496" y="68" width="600" height="743" key="refactoring.ChangeSignatureDialog" timestamp="1582977363084">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
